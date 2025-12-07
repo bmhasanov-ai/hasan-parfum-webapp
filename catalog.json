@@ -1,0 +1,1729 @@
+{
+  "products": [
+    {
+      "id": "first-instinct",
+      "name": "First Instinct",
+      "brand": "Abercrombie & Fitch",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий, лёгкий и слегка сладковатый аромат с мягким мускусным шлейфом. Создаёт ощущение чистоты и естественной притягательности.",
+      "notes": "дыня, маракуйя, морская вода, мускус, амбра",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Abercrombie  Fitc. First Instinct.png"
+      ]
+    },
+    {
+      "id": "blue-seduction",
+      "name": "Blue Seduction",
+      "brand": "Antonio Banderas",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Холодный акватический аромат с лёгкой сладостью и свежестью «голубой воды». Универсальный и ненавязчивый.",
+      "notes": "бергамот, дыни, зелёные ноты, водяные аккорды, кедр",
+      "season": "лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 300
+        },
+        "perfume": {
+          "5": 300,
+          "13": 700,
+          "30": 1500,
+          "50": 2000
+        }
+      },
+      "images": [
+        "assets/photos/An.Ban. Blue Seduction.png"
+      ]
+    },
+    {
+      "id": "amber-wood",
+      "name": "Amber Wood",
+      "brand": "Ajmal",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Тёплый восточно-древесный аромат с насыщенной амброй и специями. Богатый и статусный.",
+      "notes": "амбра, древесные ноты, специи, яблоко, пачули, мускус",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 750
+        },
+        "perfume": {
+          "5": 750,
+          "13": 1750,
+          "30": 3600,
+          "50": 5000
+        }
+      },
+      "images": [
+        "assets/photos/Amber wood.png"
+      ]
+    },
+    {
+      "id": "hayati",
+      "name": "Hayati",
+      "brand": "Attar Collection",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Сладкий ягодно-ванильный аромат с десертным характером. Нежный и обволакивающий.",
+      "notes": "клубника, малина, ваниль, мускус",
+      "season": "осень / зима / весна",
+      "daytime": "универсальный",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/hayati.png"
+      ]
+    },
+    {
+      "id": "azora",
+      "name": "Azora",
+      "brand": "Attar Collection",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Цитрусово-фруктовый аромат с солнечным, радостным характером.",
+      "notes": "бергамот, персик, фрукты, амбра, мускус",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/azora.png"
+      ]
+    },
+    {
+      "id": "acqua-di-gio-homme",
+      "name": "Acqua di Gio Homme",
+      "brand": "Armani",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Чистый, морской и цитрусовый аромат — эталон мужской свежести.",
+      "notes": "бергамот, жасмин, морские ноты, кедр, мускус",
+      "season": "лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 300
+        },
+        "perfume": {
+          "5": 300,
+          "13": 700,
+          "30": 1500,
+          "50": 2000
+        }
+      },
+      "images": [
+        "assets/photos/Acqua di Gio Homme.png"
+      ]
+    },
+    {
+      "id": "red-african",
+      "name": "Red African",
+      "brand": "Al Haramain",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Восточный, тёплый и сладко-пряный аромат с густым шлейфом.",
+      "notes": "специи, древесина, амбра, мускус",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Al Haramein. Red African.jpg"
+      ]
+    },
+    {
+      "id": "ambre",
+      "name": "Ambre",
+      "brand": "Baldessarini",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Тёплый амброво-древесный аромат с мягкой сладостью.",
+      "notes": "амбра, кожа, яблоко, ваниль",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Baldesarirni Ambre.png"
+      ]
+    },
+    {
+      "id": "tygar",
+      "name": "Tygar",
+      "brand": "Bvlgari",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Взрывной цитрусовый аромат с мощным аккордом грейпфрута.",
+      "notes": "грейпфрут, амбра, мускус",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 750
+        },
+        "perfume": {
+          "5": 750,
+          "13": 1750,
+          "30": 3600,
+          "50": 5000
+        }
+      },
+      "images": [
+        "assets/photos/tygar.png"
+      ]
+    },
+    {
+      "id": "212-men",
+      "name": "212 Men",
+      "brand": "Carolina Herrera",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий, зелёный и ароматичный мужской аромат.",
+      "notes": "бергамот, лаванда, зелёные ноты, специи",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 300
+        },
+        "perfume": {
+          "5": 300,
+          "13": 700,
+          "30": 1500,
+          "50": 2000
+        }
+      },
+      "images": [
+        "assets/photos/C.Herera. 212 VIP Men..png"
+      ]
+    },
+    {
+      "id": "vetiver-dhaiti-au-the-vert",
+      "name": "Vetiver d'Haiti au The Vert",
+      "brand": "Chopard",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Свежий зелёный аромат с чаем и ветивером. Утончённый и интеллигентный.",
+      "notes": "зелёный чай, грейпфрут, ветивер",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/Vetiver d'Haiti au The Vert.png"
+      ]
+    },
+    {
+      "id": "allure-homme-sport",
+      "name": "Allure Homme Sport",
+      "brand": "Chanel",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий, энергичный аромат с цитрусами и морской чистотой.",
+      "notes": "мандарин, нероли, кедр, мускус",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Allure Homme Sport.png"
+      ]
+    },
+    {
+      "id": "egoiste-platinum",
+      "name": "Egoiste Platinum",
+      "brand": "Chanel",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Холодный пряно-свежий аромат с благородным мужским характером.",
+      "notes": "лаванда, розмарин, герань, кедр",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Chanel. Egoist Platinum.png"
+      ]
+    },
+    {
+      "id": "bleu-de-chanel",
+      "name": "Bleu de Chanel",
+      "brand": "Chanel",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Эталон свежего древесного аромата — уверенный и универсальный.",
+      "notes": "бергамот, имбирь, розовый перец, кедр, ладан",
+      "season": "круглый год",
+      "daytime": "универсальный",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Bleu de Chanel.png"
+      ]
+    },
+    {
+      "id": "aventus",
+      "name": "Aventus",
+      "brand": "Creed",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Статусный мужественный аромат с фруктово-древесным характером.",
+      "notes": "ананас, бергамот, яблоко, берёза, амбра",
+      "season": "весна / лето / осень",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 750
+        },
+        "perfume": {
+          "5": 750,
+          "13": 1750,
+          "30": 3600,
+          "50": 5000
+        }
+      },
+      "images": [
+        "assets/photos/Creed. Aventus.png"
+      ]
+    },
+    {
+      "id": "sauvage",
+      "name": "Sauvage",
+      "brand": "Dior",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий, пряный, металлический и очень шлейфовый аромат.",
+      "notes": "бергамот, перец, лаванда, амброксан",
+      "season": "круглый год",
+      "daytime": "универсальный",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/Dior. Savage..png"
+      ]
+    },
+    {
+      "id": "dior-homme-sport",
+      "name": "Dior Homme Sport",
+      "brand": "Dior",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Холодный цитрусово-древесный аромат, динамичный и стильный.",
+      "notes": "лимон, грейпфрут, имбирь, кедр",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Allure Homme Sport.png"
+      ]
+    },
+    {
+      "id": "fahrenheit",
+      "name": "Fahrenheit",
+      "brand": "Dior",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Тёплый кожано-фиалковый аромат с бензиновым акцентом.",
+      "notes": "кожа, фиалка, лаванда, амбра",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/fahrenheit.png"
+      ]
+    },
+    {
+      "id": "light-blue-for-men",
+      "name": "Light Blue for Men",
+      "brand": "Dolce & Gabbana",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий морской цитрус с древесным шлейфом.",
+      "notes": "грейпфрут, перец, можжевельник, мускус",
+      "season": "лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/light blue for men.png"
+      ]
+    },
+    {
+      "id": "light-blue-for-women",
+      "name": "Light Blue for Women",
+      "brand": "Dolce & Gabbana",
+      "category_raw": "жен",
+      "gender": "female",
+      "description": "Искристый фруктово-цитрусовый женский аромат.",
+      "notes": "яблоко, лимон, жасмин, кедр",
+      "season": "лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/ligt blue for women.jpg"
+      ]
+    },
+    {
+      "id": "the-one-men",
+      "name": "The One Men",
+      "brand": "Dolce & Gabbana",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Тёплый пряно-табачный аромат — элегантный и мужской.",
+      "notes": "грейпфрут, кориандр, имбирь, табак",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/D.G. The one Men.png"
+      ]
+    },
+    {
+      "id": "k-by-dolce",
+      "name": "K by Dolce",
+      "brand": "Dolce & Gabbana",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий цитрусово-древесный аромат.",
+      "notes": "лимон, можжевельник, апельсин, кедр",
+      "season": "весна / лето / осень",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/K by Dolce.png"
+      ]
+    },
+    {
+      "id": "l’imperatrice",
+      "name": "L’Imperatrice",
+      "brand": "Dolce & Gabbana",
+      "category_raw": "жен",
+      "gender": "female",
+      "description": "Сочный, фруктовый и женственный аромат.",
+      "notes": "арбуз, киви, ревень, мускус",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/L’Imperatrice.jpg"
+      ]
+    },
+    {
+      "id": "molecule-01",
+      "name": "Molecule 01",
+      "brand": "Escentric Molecules",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Интимный минималистичный аромат на базе ISO E Super.",
+      "notes": "ISO E Super",
+      "season": "круглый год",
+      "daytime": "универсальный",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/molecule 01.png"
+      ]
+    },
+    {
+      "id": "molecule-02",
+      "name": "Molecule 02",
+      "brand": "Escentric Molecules",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Лёгкий искристый аромат с сияющим звучанием.",
+      "notes": "амброксан",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 900
+        },
+        "perfume": {
+          "5": 900,
+          "13": 2100,
+          "30": 4400,
+          "50": 6000
+        }
+      },
+      "images": [
+        "assets/photos/Molecule 02.png"
+      ]
+    },
+    {
+      "id": "molecule-02-black",
+      "name": "Molecule 02 Black",
+      "brand": "Escentric Molecules",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Более глубокая и смолистая версия Molecule 02.",
+      "notes": "амброксан, амбровые ноты",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 900
+        },
+        "perfume": {
+          "5": 900,
+          "13": 2100,
+          "30": 4400,
+          "50": 6000
+        }
+      },
+      "images": [
+        "assets/photos/Molecule 02 Black.png"
+      ]
+    },
+    {
+      "id": "fleur-narcotique",
+      "name": "Fleur Narcotique",
+      "brand": "Ex Nihilo",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Воздушный цветочно-фруктовый аромат.",
+      "notes": "пион, личи, бергамот, мускус",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/Fleur Narcotique.png"
+      ]
+    },
+    {
+      "id": "cocaine",
+      "name": "Cocaine",
+      "brand": "Franck Boclet",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Густой сладко-пряный аромат с кремовой глубиной.",
+      "notes": "ваниль, карамель, специи, табак",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Cocaine.png"
+      ]
+    },
+    {
+      "id": "blue-label",
+      "name": "Blue Label",
+      "brand": "Givenchy",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий пряно-древесный мужской аромат.",
+      "notes": "грейпфрут, перец, лаванда, древесина",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Blue Label.png"
+      ]
+    },
+    {
+      "id": "angel-ou-demon",
+      "name": "Angel ou Demon",
+      "brand": "Givenchy",
+      "category_raw": "жен",
+      "gender": "female",
+      "description": "Сладко-пряный женский аромат с контрастным характером.",
+      "notes": "мандарин, шафран, жасмин, ваниль",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 300
+        },
+        "perfume": {
+          "5": 300,
+          "13": 700,
+          "30": 1500,
+          "50": 2000
+        }
+      },
+      "images": [
+        "assets/photos/Angel ou Demon.jpg"
+      ]
+    },
+    {
+      "id": "hugo-men",
+      "name": "Hugo Men",
+      "brand": "Hugo Boss",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий зелёный аромат.",
+      "notes": "зелёное яблоко, мята, сосна, ветивер",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 300
+        },
+        "perfume": {
+          "5": 300,
+          "13": 700,
+          "30": 1500,
+          "50": 2000
+        }
+      },
+      "images": [
+        "assets/photos/hugo men..png"
+      ]
+    },
+    {
+      "id": "boss-bottled",
+      "name": "Boss Bottled",
+      "brand": "Hugo Boss",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Тёплый яблочно-ванильный аромат.",
+      "notes": "яблоко, корица, ваниль, сандал",
+      "season": "осень / зима / весна",
+      "daytime": "день / вечер",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Boss Bottled.png"
+      ]
+    },
+    {
+      "id": "aqua-kenzo-pour-homme",
+      "name": "Aqua Kenzo Pour Homme",
+      "brand": "Kenzo",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Холодный морской аромат.",
+      "notes": "морские ноты, перец, мята",
+      "season": "лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 300
+        },
+        "perfume": {
+          "5": 300,
+          "13": 700,
+          "30": 1500,
+          "50": 2000
+        }
+      },
+      "images": [
+        "assets/photos/Aqua Kenzo Pour Homme.png"
+      ]
+    },
+    {
+      "id": "l’eau-par-kenzo-men",
+      "name": "L’Eau par Kenzo Men",
+      "brand": "Kenzo",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Водно-цитрусовый прозрачный аромат.",
+      "notes": "юзу, водяные аккорды, кедр",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/L’Eau par Kenzo Men.png"
+      ]
+    },
+    {
+      "id": "rolling-in-love",
+      "name": "Rolling in Love",
+      "brand": "By Kilian",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Кремово-миндальный нежный аромат.",
+      "notes": "миндаль, ирис, ваниль, мускус",
+      "season": "осень / зима / весна",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/Rolling in Love.png"
+      ]
+    },
+    {
+      "id": "good-girl-gone-bad",
+      "name": "Good Girl Gone Bad",
+      "brand": "By Kilian",
+      "category_raw": "жен",
+      "gender": "female",
+      "description": "Цветочный букет с фруктовой свежестью.",
+      "notes": "жасмин, тубероза, османтус",
+      "season": "весна / лето",
+      "daytime": "день / вечер",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/Good Girl Gone Bad.jpg"
+      ]
+    },
+    {
+      "id": "l.12.12-blue",
+      "name": "L.12.12 Blue",
+      "brand": "Lacoste",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий спортивный аромат.",
+      "notes": "грейпфрут, мята, арбуз",
+      "season": "лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/L.12.12 Blue.png"
+      ]
+    },
+    {
+      "id": "l.12.12-white",
+      "name": "L.12.12 White",
+      "brand": "Lacoste",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Чистый мягкий аромат.",
+      "notes": "тубероза, кедр, розмарин",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/L.12.12 White.png"
+      ]
+    },
+    {
+      "id": "imagination",
+      "name": "Imagination",
+      "brand": "Louis Vuitton",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Цитрусово-мускусный воздушный аромат.",
+      "notes": "цитрусы, имбирь, белый чай, мускус",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 900
+        },
+        "perfume": {
+          "5": 900,
+          "13": 2100,
+          "30": 4400,
+          "50": 6000
+        }
+      },
+      "images": [
+        "assets/photos/imagination.png"
+      ]
+    },
+    {
+      "id": "bois-imperial",
+      "name": "Bois Imperial",
+      "brand": "Essential Parfums",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Пряно-древесный, современный нишевый аромат.",
+      "notes": "ветивер, тимьян, амброксан, кедр",
+      "season": "круглый год",
+      "daytime": "день / вечер",
+      "prices": {
+        "oil": {
+          "3": 750
+        },
+        "perfume": {
+          "5": 750,
+          "13": 1750,
+          "30": 3600,
+          "50": 5000
+        }
+      },
+      "images": [
+        "assets/photos/Bois Imperial.png"
+      ]
+    },
+    {
+      "id": "oud-maracuja",
+      "name": "Oud Maracuja",
+      "brand": "Maison Crivelli",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Контраст маракуйи и тёмного уда — яркий и провокационный.",
+      "notes": "маракуйя, уд, ягоды, древесные ноты",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 1050
+        },
+        "perfume": {
+          "5": 1050,
+          "13": 2450,
+          "30": 5100,
+          "50": 7000
+        }
+      },
+      "images": [
+        "assets/photos/oud maracuja.png"
+      ]
+    },
+    {
+      "id": "chocolate-greedy",
+      "name": "Chocolate Greedy",
+      "brand": "Montale",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Густой гурманский шоколадный аромат.",
+      "notes": "шоколад, какао, ваниль, кофе",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Chocolate Greedy.png"
+      ]
+    },
+    {
+      "id": "ganymede",
+      "name": "Ganymede",
+      "brand": "Marc-Antoine Barrois",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Минерално-кожаный футуристичный аромат.",
+      "notes": "сафралеин, мандарин, фиалка, бессмертник",
+      "season": "круглый год",
+      "daytime": "универсальный",
+      "prices": {
+        "oil": {
+          "3": 750
+        },
+        "perfume": {
+          "5": 750,
+          "13": 1750,
+          "30": 3600,
+          "50": 5000
+        }
+      },
+      "images": [
+        "assets/photos/ganymede.png"
+      ]
+    },
+    {
+      "id": "tilia",
+      "name": "Tilia",
+      "brand": "Marc-Antoine Barrois",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Нежный медово-цветочный аромат.",
+      "notes": "липа, мёд, мускус",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 750
+        },
+        "perfume": {
+          "5": 750,
+          "13": 1750,
+          "30": 3600,
+          "50": 5000
+        }
+      },
+      "images": [
+        "assets/photos/Tilia.png"
+      ]
+    },
+    {
+      "id": "black-afgano",
+      "name": "Black Afgano",
+      "brand": "Nasomatto",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Тёмный смолистый мистический аромат.",
+      "notes": "смолы, уд, кофе, табак",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 1050
+        },
+        "perfume": {
+          "5": 1050,
+          "13": 2450,
+          "30": 5100,
+          "50": 7000
+        }
+      },
+      "images": [
+        "assets/photos/Black Afgano.png"
+      ]
+    },
+    {
+      "id": "bella",
+      "name": "Bella",
+      "brand": "Nina Ricci",
+      "category_raw": "жен",
+      "gender": "female",
+      "description": "Сочный, яркий и игривый фруктово-цветочный аромат с лёгкой кислинкой зелёного ревеня. Женственный, свежий и очень жизнерадостный.",
+      "notes": "зелёный ревень, мандарин, ваниль, цветы, мускус.",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/bella.jpg"
+      ]
+    },
+    {
+      "id": "la-vie-est-belle-l’eclat",
+      "name": "La Vie est Belle L’Eclat",
+      "brand": "Lancome",
+      "category_raw": "жен",
+      "gender": "female",
+      "description": "Сладкий сияющий женственный аромат.",
+      "notes": "апельсиновый цвет, ваниль, жасмин, сандал",
+      "season": "осень / зима / весна",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/La Vie est Belle L’Eclat.jpg"
+      ]
+    },
+    {
+      "id": "invictus",
+      "name": "Invictus",
+      "brand": "Paco Rabanne",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий спортивный аромат.",
+      "notes": "грейпфрут, морские ноты, амбра",
+      "season": "лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Invictus.png"
+      ]
+    },
+    {
+      "id": "one-million",
+      "name": "One Million",
+      "brand": "Paco Rabanne",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Сладко-пряный вечерний аромат.",
+      "notes": "корица, мята, роза, кожа",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/One Million.png"
+      ]
+    },
+    {
+      "id": "terroni",
+      "name": "Terroni",
+      "brand": "Orto Parisi",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Землистый и дымный нишевый аромат.",
+      "notes": "земля, дым, специи, смолы",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 750
+        },
+        "perfume": {
+          "5": 750,
+          "13": 1750,
+          "30": 3600,
+          "50": 5000
+        }
+      },
+      "images": [
+        "assets/photos/terroni.png"
+      ]
+    },
+    {
+      "id": "megamare",
+      "name": "Megamare",
+      "brand": "Orto Parisi",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Холодный, металлический, морской аромат.",
+      "notes": "морская соль, цитрусы, амбра",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 900
+        },
+        "perfume": {
+          "5": 900,
+          "13": 2100,
+          "30": 4400,
+          "50": 6000
+        }
+      },
+      "images": [
+        "assets/photos/megamare.png"
+      ]
+    },
+    {
+      "id": "elysium",
+      "name": "Elysium",
+      "brand": "Roja Dove",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Свежий, чистый, статусный мужской аромат.",
+      "notes": "грейпфрут, лайм, можжевельник, ветивер",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 750
+        },
+        "perfume": {
+          "5": 750,
+          "13": 1750,
+          "30": 3600,
+          "50": 5000
+        }
+      },
+      "images": [
+        "assets/photos/Elysium.png"
+      ]
+    },
+    {
+      "id": "oligarch",
+      "name": "Oligarch",
+      "brand": "Roja Dove",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Богатый цитрусово-древесный аромат.",
+      "notes": "бергамот, тимьян, ваниль, кедр",
+      "season": "весна / лето / осень",
+      "daytime": "день / вечер",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/Oligarch.png"
+      ]
+    },
+    {
+      "id": "venom",
+      "name": "Venom",
+      "brand": "Richard Maison de Parfum",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Тёмный сладко-восточный аромат.",
+      "notes": "специи, амбра, ваниль, древесина",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/venom.png"
+      ]
+    },
+    {
+      "id": "oud-for-happiness",
+      "name": "Oud for Happiness",
+      "brand": "Initio",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Тёплый пряно-древесный аромат с мягким удом.",
+      "notes": "уд, имбирь, специи, ваниль",
+      "season": "осень / зима / весна",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/oud for happines.png"
+      ]
+    },
+    {
+      "id": "kirke",
+      "name": "Kirke",
+      "brand": "Tiziana Terenzi",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Сочный сладко-фруктовый аромат.",
+      "notes": "маракуйя, персик, малина, магнолия",
+      "season": "весна / лето",
+      "daytime": "день / вечер",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/kirke.png"
+      ]
+    },
+    {
+      "id": "no.4-apres-l’amour",
+      "name": "No.4 Apres L’Amour",
+      "brand": "Thomas Kosmala",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Свежий, чистый, сияющий аромат.",
+      "notes": "лимон, бергамот, мускус, амброксан",
+      "season": "круглый год",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 900
+        },
+        "perfume": {
+          "5": 900,
+          "13": 2100,
+          "30": 4400,
+          "50": 6000
+        }
+      },
+      "images": [
+        "assets/photos/No.4 Apres L’Amour.jpg"
+      ]
+    },
+    {
+      "id": "no.4-neon",
+      "name": "No.4 Neon",
+      "brand": "Thomas Kosmala",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Искристый цитрусово-мускусный аромат.",
+      "notes": "цитрусы, мускус, амбровые аккорды",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 750
+        },
+        "perfume": {
+          "5": 750,
+          "13": 1750,
+          "30": 3600,
+          "50": 5000
+        }
+      },
+      "images": [
+        "assets/photos/No.4 Neon.png"
+      ]
+    },
+    {
+      "id": "oud-wood",
+      "name": "Oud Wood",
+      "brand": "Tom Ford",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Элегантный древесно-удовый аромат.",
+      "notes": "уд, сандал, кедр, ваниль",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/oud wood.png"
+      ]
+    },
+    {
+      "id": "f.-fabulous",
+      "name": "F. Fabulous",
+      "brand": "Tom Ford",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Провокационный, кожано-миндальный аромат с густой сладостью и нюансами дорогих специй. Роскошный, дерзкий и уверенный в себе.",
+      "notes": "кожа, миндаль, ирис, бобы тонка, амбра, ванильные аккорды",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/F. Fabulous.png"
+      ]
+    },
+    {
+      "id": "shaik-77",
+      "name": "Shaik 77",
+      "brand": "Shaik",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Восточный тёплый бархатный аромат.",
+      "notes": "специи, амбра, ваниль, мускус",
+      "season": "осень / зима",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/shaik 77.png"
+      ]
+    },
+    {
+      "id": "eros",
+      "name": "Eros",
+      "brand": "Versace",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Сладко-свежий сексуальный аромат.",
+      "notes": "мята, лимон, яблоко, ваниль",
+      "season": "весна / лето / осень",
+      "daytime": "вечер",
+      "prices": {
+        "oil": {
+          "3": 300
+        },
+        "perfume": {
+          "5": 300,
+          "13": 700,
+          "30": 1500,
+          "50": 2000
+        }
+      },
+      "images": [
+        "assets/photos/Versache. Eros.png"
+      ]
+    },
+    {
+      "id": "man-eau-fraiche",
+      "name": "Man Eau Fraiche",
+      "brand": "Versace",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Лёгкий водно-цитрусовый аромат.",
+      "notes": "лимон, бергамот, кедр",
+      "season": "лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Man Eau Fraiche.png"
+      ]
+    },
+    {
+      "id": "dear-polly",
+      "name": "Dear Polly",
+      "brand": "Vilhelm Parfumerie",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Чайно-цитрусовый уютный аромат.",
+      "notes": "чёрный чай, бергамот, яблоко",
+      "season": "весна / осень",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/dear polly.png"
+      ]
+    },
+    {
+      "id": "l’homme",
+      "name": "L’Homme",
+      "brand": "Yves Saint Laurent",
+      "category_raw": "муж",
+      "gender": "male",
+      "description": "Мягко-пряный элегантный аромат.",
+      "notes": "имбирь, бергамот, лаванда, ветивер",
+      "season": "весна / лето / осень",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/L’Homme.png"
+      ]
+    },
+    {
+      "id": "erba-pura",
+      "name": "Erba Pura",
+      "brand": "Xerjoff Sospiro",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Сочный сладко-фруктовый аромат.",
+      "notes": "сицилийские фрукты, ваниль, амбра",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/erba pura.png"
+      ]
+    },
+    {
+      "id": "pink-molecule-090.09",
+      "name": "Pink Molecule 090.09",
+      "brand": "Zarkoperfume",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Лёгкий сладковато-кремовый аромат.",
+      "notes": "шампанское, цветы, древесные ноты",
+      "season": "весна / лето",
+      "daytime": "день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Pink Molecule 090.09.png"
+      ]
+    },
+    {
+      "id": "cocaine-white",
+      "name": "Cocaine (White)",
+      "brand": "France",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Мягкий цветочно-сладкий аромат с белым, чистым характером.",
+      "notes": "цветочные ноты, сладкие аккорды, мускус",
+      "season": "осень / весна",
+      "daytime": "вечер / день",
+      "prices": {
+        "oil": {
+          "3": 450
+        },
+        "perfume": {
+          "5": 450,
+          "13": 1050,
+          "30": 2200,
+          "50": 3000
+        }
+      },
+      "images": [
+        "assets/photos/Cocaine (White).png"
+      ]
+    },
+    {
+      "id": "nebesny-pheromon",
+      "name": "Nebesny Pheromon",
+      "brand": "France",
+      "category_raw": "уни",
+      "gender": "unisex",
+      "description": "Чистый свежий мускусный аромат, интимный и лёгкий.",
+      "notes": "белый мускус, свежие акценты",
+      "season": "круглый год",
+      "daytime": "универсальный",
+      "prices": {
+        "oil": {
+          "3": 600
+        },
+        "perfume": {
+          "5": 600,
+          "13": 1400,
+          "30": 2900,
+          "50": 4000
+        }
+      },
+      "images": [
+        "assets/photos/Nebesny Pheromon.png"
+      ]
+    }
+  ]
+}
